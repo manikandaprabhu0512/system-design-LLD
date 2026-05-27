@@ -1,5 +1,10 @@
 package Patterns.Adapater_Pattern;
 
+/* 
+    Adapter converts the interfaces of a class into another interface that client expects. 
+    Adapter llets classes work together that couldn't, because of incompatible interface
+*/
+
 interface IReports {
     String getJSONData(String data);
 }
