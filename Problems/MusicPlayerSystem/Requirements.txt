@@ -1,0 +1,8 @@
+-> Functional Requirements:
+1. User can play and pause the song.
+2. User can create playlist and add songs to it.
+3. Playlist can be in Sequential / shuffled and played in random order / Custom order.
+4. App should support multiple output devices (Bluetooth, Wired, Headsphones, etc.)
+
+-> Non-Functional Requirements:
+1. App should be like plug and play & scalable.
