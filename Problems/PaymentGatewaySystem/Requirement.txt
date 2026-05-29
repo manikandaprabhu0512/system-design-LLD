@@ -1,0 +1,4 @@
+Requirements:
+1. Should support multiple payment provider (e.g., PayPal, Paytm, RazorPay etc.).
+2. There should be standart Payment flow, with required validations.
+3. Have error handling and retry mechanism.
